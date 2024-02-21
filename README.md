@@ -1,6 +1,7 @@
 Ben Sassi Ilyes
 
-Student on a Masters Degree in Asset Management and Quantitative Finance
+Student pursuing a Master's degree in Asset Management and Quantitative Finance.
 
-Main topics : quantitative trading, financial econometrics, machine learning for finance
+Main topics : Quantitative Finance tools, Financial Econometrics, Machine learning for Finance
 
+Paris, France
